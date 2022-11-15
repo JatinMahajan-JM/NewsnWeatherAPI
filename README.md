@@ -15,3 +15,5 @@ Steps to run this api in your local machine. Follow these steps after opening th
 
 Make sure you have sql installed in your pc and also setup the environment variables as mentioned
 Remember to create the database in sql
+
+Documentation of this api is available on - https://documenter.getpostman.com/view/19514705/2s8YmEz6Th
